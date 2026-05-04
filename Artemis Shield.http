@@ -1,0 +1,6 @@
+@Artemis_Shield_HostAddress = http://localhost:5260
+
+GET {{Artemis_Shield_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
